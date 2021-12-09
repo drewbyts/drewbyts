@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a data anlyst and developer who spends more time at coffeeshops than his actual home.
+
+I'm active online, but in the form of posting tangential jokes on [Twitter](https://twitter.com/drewbyts) (I really should stop). 
+
+Want to connect, send me a [Twitter DM](https://twitter.com/drewbyts). I'd love to collaborate on new projects!
+
 <!--
 **drewbyts/drewbyts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
