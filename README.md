@@ -2,9 +2,9 @@
 
 I'm a data analyst and developer who spends more time at coffeeshops than his actual home.
 
-I'm active online, but in the form of posting tangential (/bīts/) on [Twitter](https://twitter.com/drewbyts) (I really should stop). 
+I'm active online, but in the short-form [Twitter](https://twitter.com/drewbyts) and long-form [Substack](drewbyts.substack.com). 
 
-Want to connect, send me a [DM](https://twitter.com/drewbyts). Would love to know me at the core? Check out my [website](https://drewbyts.netlify.app). I'd love to collaborate on new projects!
+Want to connect, send me a [DM](https://twitter.com/drewbyts). Want to know me at the core? Check out my [website](https://drewbyts.netlify.app). I'd love to collaborate on new projects!
 
 <!--
 **drewbyts/drewbyts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
