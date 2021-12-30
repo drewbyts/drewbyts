@@ -4,6 +4,10 @@ I'm a data analyst and developer who spends more time at coffeeshops than his ac
 
 I'm active online, in the short-form [Twitter](https://twitter.com/drewbyts) and long-form [Substack](drewbyts.substack.com). 
 
+I have experience with R, Python, TailwindCSS, Google Analytics, and Adobe Suite.
+
+Currently, I'm learning React.js!
+
 Want to connect, send me a [DM](https://twitter.com/drewbyts). Want to know me at the core? Check out my [website](https://drewbyts.netlify.app). I'd love to collaborate on new projects!
 
 <!--
