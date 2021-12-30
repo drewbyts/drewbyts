@@ -6,7 +6,7 @@ I'm active online, in the short-form [Twitter](https://twitter.com/drewbyts) and
 
 I have experience with R, Python, TailwindCSS, Google Analytics, and Adobe Suite.
 
-Currently, I'm learning React.js!
+I'm currently learning React.js!
 
 Want to connect, send me a [DM](https://twitter.com/drewbyts). Want to know me at the core? Check out my [website](https://drewbyts.netlify.app). I'd love to collaborate on new projects!
 
