@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a data analyst and developer who spends more time at coffeeshops than his actual home.
+I'm a data analyst and coder who spends more time at coffeeshops than his actual home.
 
 I'm active online, in the short-form, [Twitter](https://twitter.com/drewbyts), and long-form, [Substack](drewbyts.substack.com). 
 
