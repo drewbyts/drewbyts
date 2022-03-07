@@ -2,7 +2,7 @@
 
 I'm a data analyst and coder who spends more time at coffeeshops than his actual home.
 
-I'm active online, in the short-form, [Twitter](https://twitter.com/drewbyts), and long-form, [Substack](drewbyts.substack.com). 
+I'm active online, in the short-form, [Twitter](https://twitter.com/drewbyts), and long-form, [Substack](https://substack.com/profile/36255055-andrew-ramirez?utm_source=user-menu). 
 
 I have experience with R, Python, Tailwind CSS, Google Analytics, and Adobe Suite.
 
